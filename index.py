@@ -25,3 +25,6 @@ recovered = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/cs
 confirmed = pd.read_csv(confirmed_case)
 death = pd.read_csv(death_case)
 recovered = pd.read_csv(recovered)
+
+
+app.run_server()
