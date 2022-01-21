@@ -1,0 +1,18 @@
+How run the dashboard:
+=====================
+------------------------------------|
+*System must have installed python  |
+------------------------------------|
+
+install all requirens usin pip command
+=======================================
+pip install pandas
+pip install plotly
+pip install dash
+
+when all requirements are satisfied, open terminal window and go to
+the directory where Covid19DB.py file is and run the following command:
+---------------------
+python Covid19DB.py  |
+---------------------
+
